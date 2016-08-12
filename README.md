@@ -21,6 +21,8 @@ Author names are a Google search away.
 - Introduction to Bayesian Statistics
 - Introduction to Statistical Learning
 - Machine Learning for Hackers
+- Natural Language Annotation for Machine Learning
+- Natural Language Processing with Python
 - Networks, Crowds, and Markets
 - Neural Networks-A Comprehensive Foundation
 - Random Graphs and Complex Networks
