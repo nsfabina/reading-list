@@ -65,6 +65,7 @@ Author names are a Google search away.
 - An Introduction to Functional Programming
 - An Introduction to Information Retrieval
 - Mining of Massive Datasets
+- The Mythical Man-Month
 - The Practice of Programming
 - The Pragmatic Programmer
 - Writing Solid Code
