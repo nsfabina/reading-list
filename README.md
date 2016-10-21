@@ -1,8 +1,11 @@
-#A Data Science / Software Engineering Reading List
+#A reading list for generalists:  data science, software engineering, and design
 
-These books come highly recommended from colleagues and other sources.
+These books came highly recommended from colleagues and other sources, and my impressions fell into three categories:
+- mind-blowing:  read the whole thing
+- flashes of brilliance:  read useful sections, skim outdated or irrelevant sections, or content covered in other books
+- not my cup of tea:  give it a shot, stop reading if you don't find it useful
 
-Mildly interesting aside for discussion fodder:  I've noticed that data science books tend to be very hands-on, engineering books are practical and straightforward, and design books often have detailed narratives.
+Discussion fodder:  I've noticed that data science books tend to be very hands-on, engineering books are practical and straightforward, and design books often have detailed narratives and flowery language.
 
 Author names are a Google search away.
 
@@ -15,11 +18,11 @@ Author names are a Google search away.
 - Data Mining for Social Network Data
 - Data Science From Scratch
 - The Elements of Data Analytic Style
-- The Elements of Statistical Learning
+- **The Elements of Statistical Learning**
 - Foundations of Data Science
 - Gaussian Processes
 - Introduction to Bayesian Statistics
-- Introduction to Statistical Learning
+- **Introduction to Statistical Learning**
 - Machine Learning for Hackers
 - Natural Language Annotation for Machine Learning
 - Natural Language Processing with Python
@@ -55,8 +58,8 @@ Author names are a Google search away.
 - The Algorithm Design Manual
 - Algorithms
 - The Art of Unit Testing
-- Clean Code
-- Code Complete
+- **Clean Code**
+- **Code Complete**
 - Cracking the Code Interivew
 - Data Structures and Problem Solving
 - Design Patterns
@@ -66,6 +69,7 @@ Author names are a Google search away.
 - An Introduction to Information Retrieval
 - Mining of Massive Datasets
 - The Mythical Man-Month
+- **Peopleware**
 - The Practice of Programming
-- The Pragmatic Programmer
+- **The Pragmatic Programmer**
 - Writing Solid Code
