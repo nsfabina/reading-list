@@ -1,4 +1,4 @@
-#A reading list for generalists:  data science, software engineering, and design
+# A reading list for generalists:  data science, software engineering, and design
 
 These books came highly recommended from colleagues and other sources, and my impressions fell into three categories:
 - mind-blowing:  read the whole thing
@@ -9,7 +9,7 @@ Discussion fodder:  I've noticed that data science books tend to be very hands-o
 
 Author names are a Google search away.
 
-##Data Science
+## Data Science
 - A First Course in Design and Analysis of Experiments  
 - A First Encounter with Machine Learning  
 - All of Statistics
@@ -36,7 +36,7 @@ Author names are a Google search away.
 - Think Bayes
 - Think Stats
 
-##Design
+## Design
 - 52WeeksOfUX.com
 - Beautiful Evidence
 - The Design of Everyday Things
@@ -54,7 +54,7 @@ Author names are a Google search away.
 - Visual Explanations
 - Visualize This
 
-##Engineering
+## Engineering
 - The Algorithm Design Manual
 - Algorithms
 - The Art of Unit Testing
